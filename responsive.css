@@ -13,7 +13,7 @@
         flex-wrap: wrap;
     }
 
-    .peoples .card{
+    .peoples.card{
         width: 50%;
     }
 }
@@ -49,7 +49,7 @@
 
 @media screen and (max-width: 670px){
     .topnav a:not(:first-child){display: none;}
-    .topnav span .menu-icon{
+    .topnav span.menu-icon{
         float: right;
         display: block;
     }
