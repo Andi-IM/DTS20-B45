@@ -40,7 +40,6 @@ header {
 
 .topnav{
   overflow: hidden;
-  background-color: rgba(255, 255, 255, 0.3);
   transition: all 0.5s;
 }
 
