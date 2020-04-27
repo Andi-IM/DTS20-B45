@@ -74,7 +74,8 @@ header {
 }
 
 .copy-container h1 {
-  font-size: 140px;
+  font-size: 90px;
+  font-weight: lighter;
 }
 
 .copy-container h2 {
