@@ -93,6 +93,10 @@ header {
   color: #f1f1f1;
 }
 
+.sidenav-selected{
+  color: #f1f1f1;
+}
+
 .sidenav .closebtn {
   position: absolute;
   top: 0;
