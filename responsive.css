@@ -21,7 +21,7 @@
 /* Smartphone Model */
 @media screen and (max-width: 670px){
     .topnav.responsive {position: relative;}
-    .topnav.responsive a.menu-icon{
+    .topnav.responsive span.menu-icon{
         position: absolute;
         right: 0;
         top: 0;
@@ -44,8 +44,12 @@
 
 @media screen and (max-width: 670px){
     .topnav a:not(:first-child){display: none;}
-    .topnav a.menu-icon{
+    .topnav span.menu-icon{
         float: right;
         display: block;
     }
 }
+
+@media screen and (max-height: 450px) {
+    .sidenav a {font-size: 18px;}
+  }
